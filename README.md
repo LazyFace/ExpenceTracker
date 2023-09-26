@@ -1,16 +1,13 @@
-# expence_tracker
+# Expense Tracker App
 
-A new Flutter project.
+The Expense Tracker app is a powerful tool for managing and organizing your expenses across various categories. It helps you keep track of your financial transactions and budget effectively.
 
-## Getting Started
+## Technologies Used
 
-This project is a starting point for a Flutter application.
+- **Flutter**: The mobile app development framework used to create the application.
+- **Dart**: The programming language used in Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+<br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
